@@ -1,0 +1,48 @@
+body{
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+.container{
+    display: flex;
+    
+}
+
+.first-img{
+    width: 300px;
+    border-radius: 5px;
+}
+.mkbhd{
+    width: 35px;
+    height: 35x;
+    border-radius: 50%;
+    position: relative;
+    top: 46px;
+    right: 301px;
+}
+.title{
+    position: relative;
+    font-size: medium;
+    bottom: 8px;
+    left: 50px;
+    width: 250px;
+}
+svg{
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    fill: grey;
+}
+.channel-name{
+    position: relative;
+    bottom: 20px;
+    left: 50px;
+    color: grey;
+    font-size: small;
+}
+.views{
+    position: relative;
+    bottom: 30px;
+    left: 50px;
+}
